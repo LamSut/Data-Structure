@@ -1,4 +1,4 @@
 # Data Structure
-Data Structures (based on exercises of Dr. Pham Nguyen Khang - CTU)
+Data Structures (based on exercises of Assoc. Prof. Pham Nguyen Khang - CTU)
 
 
